@@ -79,7 +79,7 @@ LICENSE                → MIT License
 
 - 🌍 [Project Website](https://africafastferry.com)  
 - 💼 [LinkedIn](https://linkedin.com/company/africafastferry)  
-- 🔗 [Smart Contracts](./contracts/)  
+- 🔗 [Smart Contract](./AfricaFastFerryToken.sol)  
 - 🖼️ [Branding Assets](./branding/)
 
 ---
