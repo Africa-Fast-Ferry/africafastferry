@@ -6,6 +6,21 @@ This project adheres to Keep a Changelog and Semantic Versioning.
 
 ---
 
+[1.0.3] – 2025-06-25
+
+### Added
+
+Copyright notice added to README.md:
+
+© 2025 Africa Fast Ferry Ltd. All rights reserved.
+
+Smart contract architecture © 2025 Simon Kapenda.
+
+
+
+
+---
+
 [1.0.2] – 2025-06-25
 
 ### Changed
