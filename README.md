@@ -93,3 +93,8 @@ This project is licensed under the MIT License. You are free to use, copy, modif
 3. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
 See the full [LICENSE](LICENSE) file for details.
+
+---
+
+© 2025 Africa Fast Ferry Ltd. All rights reserved.  
+Smart contract architecture © 2025 Simon Kapenda.
