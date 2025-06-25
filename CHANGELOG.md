@@ -6,6 +6,16 @@ This project adheres to Keep a Changelog and Semantic Versioning.
 
 ---
 
+[1.0.2] – 2025-06-25
+
+### Changed
+
+Updated README.md to credit Simon Kapenda as the Smart Contract Architect, replacing previous attribution to Cascadia Blockchain
+
+
+
+---
+
 [1.0.1] – 2025-06-25
 
 ### Added
