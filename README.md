@@ -68,7 +68,7 @@ LICENSE                → MIT License
 
 ## 👥 Contributors
 
-- **Smart Contract Architecture:** Cascadia Blockchain  
+- **Smart Contract Architecture:** Simon Kapenda 
 - **Project Sponsor:** Africa Fast Ferry Ltd  
 - **Security Token Standard:** ERC-3643  
 - **Governance & Oversight:** Abba Platforms Inc.
